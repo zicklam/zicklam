@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+:de: Hi, welcome to my github profile.
+
+- ⚡ Fun fact: No fun here :trollface:
 
 <!--
 **zicklam/zicklam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
